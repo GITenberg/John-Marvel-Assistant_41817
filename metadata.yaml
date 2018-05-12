@@ -1,0 +1,36 @@
+_repo: John-Marvel-Assistant_41817
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Flagg, James Montgomery
+    alias: Flagg, J. Montgomery
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '25940'
+    url: http://www.gutenberg.org/2009/agents/25940
+    wikipedia: http://en.wikipedia.org/wiki/James_Montgomery_Flagg
+covers:
+- cover_type: archival
+  image_path: 41817-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Page, Thomas Nelson
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '184'
+    url: http://www.gutenberg.org/2009/agents/184
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Nelson_Page
+description: ''
+gutenberg_issued: '2013-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41817'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: John Marvel, Assistant
+url: http://www.gutenberg.org/ebooks/41817
